@@ -25,7 +25,7 @@ class thing:
     def __init__(self):
         variable = 1
 
-    def some_function(x):
+    def some_function(self, x):
         print(x)
 
 # import autopep8
